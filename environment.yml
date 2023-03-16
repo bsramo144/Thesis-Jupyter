@@ -1,0 +1,16 @@
+name: thesis-environment
+
+dependencies:
+  - python=3.11
+  - ipywidgets
+  - numpy==1.23.5
+  - pyproj
+  - gpx-converter
+  - geopandas
+  - git+https://github.com/wannesm/LeuvenMapMatching.git
+  - osmnx
+  - libspatialindex-dev
+  - fiona
+  - rtree
+  - mapclassify
+  - leafmap
