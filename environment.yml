@@ -14,5 +14,5 @@ dependencies:
   - pip
   - pip:
     - git+https://github.com/wannesm/leuvenmapmatching
-    - -U gpx-converter
+    - gpx-converter
     - libspatialindex-dev
