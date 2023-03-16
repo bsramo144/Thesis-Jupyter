@@ -5,11 +5,10 @@ dependencies:
   - ipywidgets
   - numpy==1.23.5
   - pyproj
-  - gpx-converter
+  - -U gpx-converter
   - geopandas
-  - git+https://github.com/wannesm/LeuvenMapMatching.git
+  - leuvenmapmatching
   - osmnx
-  - libspatialindex-dev
   - fiona
   - rtree
   - mapclassify
