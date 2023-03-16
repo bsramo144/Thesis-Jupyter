@@ -1,7 +1,6 @@
 name: thesis-environment
 
 dependencies:
-  - python=3.11
   - ipywidgets
   - numpy=1.23.5
   - pyproj
