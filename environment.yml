@@ -3,7 +3,7 @@ name: thesis-environment
 dependencies:
   - python=3.11
   - ipywidgets
-  - numpy==1.23.5
+  - numpy=1.23.5
   - pyproj
   - geopandas
   - osmnx
@@ -11,8 +11,8 @@ dependencies:
   - rtree
   - mapclassify
   - leafmap
+  - libspatialindex
   - pip
   - pip:
     - git+https://github.com/wannesm/leuvenmapmatching
     - gpx-converter
-    - libspatialindex-dev
