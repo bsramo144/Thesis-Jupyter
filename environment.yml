@@ -11,6 +11,7 @@ dependencies:
   - mapclassify
   - leafmap
   - libspatialindex
+  - voila
   - pip
   - pip:
     - git+https://github.com/wannesm/leuvenmapmatching
