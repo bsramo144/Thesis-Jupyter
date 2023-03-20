@@ -6,7 +6,10 @@
             "python": "python3"
         }
     }
-    c.NotebookApp.tornado_settings: {
-        "websocket_max_message_size": 1073741824 // 1GB
-    }
+    
+    "NotebookApp": {
+        "tornado_settings": {
+            "websocket_max_message_size": 1073741824
+            },
+        }
 }
