@@ -984,7 +984,7 @@
 
 ## Supply overrides for the tornado.web.Application that the Jupyter server uses.
 #  Default: {}
-# c.ServerApp.tornado_settings = {}
+# c.ServerApp.tornado_settings = {"websocket_max_message_size": 1024 * 1024 * 1024}
 
 ## Whether to trust or not X-Scheme/X-Forwarded-Proto and X-Real-Ip/X-Forwarded-
 #  For headerssent by the upstream reverse proxy. Necessary if the proxy handles
