@@ -9,7 +9,7 @@
     
     "NotebookApp": {
         "tornado_settings": {
-            "websocket_max_message_size": 1073741824
+            "websocket_max_message_size": 104857600
             },
         }
 }
