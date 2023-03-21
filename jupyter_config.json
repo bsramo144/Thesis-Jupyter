@@ -8,11 +8,11 @@
         "language_kernel_mapping": {
             "python": "python3"
         }
-    }
+    },
     
     "NotebookApp": {
         "tornado_settings": {
             "websocket_max_message_size": 104857600
-            },
+            }
         }
 }
