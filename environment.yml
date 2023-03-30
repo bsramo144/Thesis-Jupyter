@@ -2,6 +2,7 @@ name: thesis-environment
 
 dependencies:
   - ipywidgets
+  - IPython
   - numpy=1.23.5
   - pyproj
   - geopandas
