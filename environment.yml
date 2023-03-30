@@ -6,8 +6,8 @@ dependencies:
   - numpy=1.23.5
   - pyproj
   - geopandas
-  - shapely
-  - osmnx
+  - shapely=2.0.1
+  - osmnx=1.3.0
   - fiona
   - rtree
   - mapclassify
