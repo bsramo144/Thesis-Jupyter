@@ -1,4 +1,5 @@
 name: thesis-environment
+markdown: kramdown
 
 dependencies:
   - ipywidgets
