@@ -19,12 +19,12 @@ Voilà tool allows the user upload max 10 MB, therefore, the tool may be used as
 ### Pre-Processing
 The parametrization and data upload parts are the only parts expecting a direct user interaction of the workflow. The user sets 11 parameters that have a direct impact on the final product. The parameters consist of (2) directories for data input and output, (1) parameter for street network download, (9) map matching parameters such as level of generalization, GNSS measurement noise, thresholds etc. The detailed explanation of parametrization is explained in script comentaries or explanatory table. The data upload refers to the link of GPX data either to the local file or to the given sample data web repository. The access to the set of GPX files is mandatory for the automation process to execute.
 
-### Map Matching
+### Data Mining: Map Matching
 Map Matching follows the structure of a Python package responsible for matching the GNSS measurements to the street network[^2]. The matching is enriched with spatial filtering and generalization. The core part starts with the download of the street network from OSM, the extent is defined by the input data and the parameter for buffering. 
 
 The MM works on the probabilistic calculation of possible paths, therefore, the parametrization is crucial for the result. The output of the analysis is a sequence of passed nodes on the street network. The nodes construct matched routes to the network. In the same step, the traces of mobility are concatenated into so-called tracks that serve as a reference to the matched result.
 
-### Post-Processing
+### Post-Processing: Outputs
 Post-processing has two main goals for automation. Firstly, the matched routes are overlayed with a blank street network on which are calculated frequencies i.e., the number of matched passages through the street. Secondly, the variables are transformed into data structures ready for data geospatial visualization and storage.
 
 The result visualization and storage part serves the user as a preview of the result. The asset supports the user with a simple visualization in form of an interactive web map. Based on the visualization one can readjust the parametrization that would fit the characteristics of the study area or the input data. The results can be stored as the web map (HTML format) or as geodata (GeoJSON, GeoPackage formats). More sophisticated and accurate maps should be made in GIS integrating the output geodata.
