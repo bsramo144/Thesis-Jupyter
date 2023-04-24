@@ -8,15 +8,5 @@
         "language_kernel_mapping": {
             "python": "python3"
         }
-    },
-    
-    "generator": {
-    "metadata": {
-      "markdown": "kramdown",
-      "markdown-it": {
-        "html": true,
-        "linkify": true
-      }
     }
-  }
 }
