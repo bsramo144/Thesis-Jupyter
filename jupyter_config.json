@@ -10,9 +10,13 @@
         }
     },
     
-    "NotebookApp": {
-        "tornado_settings": {
-            "websocket_max_message_size": 104857600
-            }
-        }
+    "generator": {
+    "metadata": {
+      "markdown": "kramdown",
+      "markdown-it": {
+        "html": true,
+        "linkify": true
+      }
+    }
+  }
 }
