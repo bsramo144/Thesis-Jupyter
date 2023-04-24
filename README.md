@@ -14,7 +14,7 @@ The [python script](scripts/gpx_simplification.py) allows a user to compress the
 Voilà tool allows the user upload max 10 MB, therefore, the tool may be used as an additional data preprocessing step. 
 
 ## Workflow Documentation
-![Workflow Diagram](https://camo.githubusercontent.com/895dceb58b2faebe7b82592cc1733994a40fba5f1713afa1223b556ecc907cdb/68747470733a2f2f646f63732e676f6f676c652e636f6d2f64726177696e67732f642f652f32504143582d31765341705941546962556d6853316166785a3847673144316545415a4453774168636163375353656f31454d5732617a4a6376636f50316b42784e5236427352364365486576674d6d3562674e34302f7075623f773d36393726616d70)
+![Workflow Diagram](https://user-images.githubusercontent.com/47752920/234070295-6493a543-8fe1-4754-b331-a9a5a3bd54b9.png)
 
 ### Pre-Processing
 The parametrization and data upload parts are the only parts expecting a direct user interaction of the workflow. The user sets 11 parameters that have a direct impact on the final product. The parameters consist of (2) directories for data input and output, (1) parameter for street network download, (9) map matching parameters such as level of generalization, GNSS measurement noise, thresholds etc. The detailed explanation of parametrization is explained in script comentaries or explanatory table. The data upload refers to the link of GPX data either to the local file or to the given sample data web repository. The access to the set of GPX files is mandatory for the automation process to execute.
