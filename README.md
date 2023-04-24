@@ -31,4 +31,5 @@ The result visualization and storage part serves the user as a preview of the re
 
 
 [^1]: Douglas, David; Peucker, Thomas (1973). "Algorithms for the reduction of the number of points required to represent a digitized line or its caricature". The Canadian Cartographer. 10 (2): 112–122. doi:10.3138/FM57-6770-U75U-7727
-[^2]: Meert, W., & Verbeke, M. (2018). HMM with non-emitting states for Map Matching. In European Conference on Data Analysis (ECDA), Date: 2018/07/04-2018/07/06, Location: Paderborn, Germany. Python package <a href="https://leuvenmapmatching.readthedocs.io/en/latest/" target="_blank"> documentation</a>.
+[^2]: Meert, W., & Verbeke, M. (2018). HMM with non-emitting states for Map Matching. In European Conference on Data Analysis (ECDA), Date: 2018/07/04-2018/07/06, Location: Paderborn, Germany. Python package 
+<a href="https://leuvenmapmatching.readthedocs.io/en/latest/" target="_blank"> documentation</a>.
