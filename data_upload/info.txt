@@ -1,1 +1,1 @@
-This folder is used to store the GPX data for the analysis.
+This folder is used to store the GPX data in JupyterHub via Binder.
