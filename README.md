@@ -1,4 +1,4 @@
-# <img width="480" alt="gpx2intensity" src="https://user-images.githubusercontent.com/47752920/234968412-c487f24e-9fad-4542-bef5-6effdd68f5f3.png">
+# <img width="480" alt="gpx2intensity" src="https://user-images.githubusercontent.com/47752920/234971085-67950162-58cc-4535-97b9-bf4259465571.png">
 Jupyter Notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1FHZmFP5zzuIhBWDRs0thnTZoyAMKdOce?usp=sharing)
 
 JupyterHub (supporting Voilà) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bsramo144/Thesis-Jupyter/HEAD)
