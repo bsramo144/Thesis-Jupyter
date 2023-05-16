@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Original file is located at
+Jupyter notebook is located at Google Colab:
     https://colab.research.google.com/drive/1o9xJojiIB2Y-sI7mThGVwW5cIHah0OOV
 """
 
