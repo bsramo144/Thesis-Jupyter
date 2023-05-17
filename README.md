@@ -1,7 +1,7 @@
 # <img width="480" alt="logo" src="https://user-images.githubusercontent.com/47752920/234973760-c8157fdd-a3cf-43cf-88b0-4dc8096cfe7c.png">
 Jupyter Notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1FHZmFP5zzuIhBWDRs0thnTZoyAMKdOce?usp=sharing)
 
-JupyterHub (supporting Voilà) [![Binder](https://mybinder.org/badge_logo.svg)]([https://mybinder.org/v2/gh/bsramo144/Thesis-Jupyter/HEAD](https://mybinder.org/v2/gh/bsramo144/Thesis-Jupyter/HEAD?labpath=gpx2intensity.ipynb))
+JupyterHub (supporting Voilà) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bsramo144/Thesis-Jupyter/HEAD?labpath=gpx2intensity.ipynb)
 
 :warning: the tool is under development, beta version.
 
