@@ -29,6 +29,13 @@ Post-processing has two main goals for automation. Firstly, the matched routes a
 
 The result visualization and storage part serves the user as a preview of the result. The asset supports the user with a simple visualization in form of an interactive web map[^4]. Based on the visualization one can readjust the parametrization that would fit the characteristics of the study area or the input data. The results can be stored as the web map (HTML format) or as geodata (GeoJSON, GeoPackage formats). More sophisticated and accurate maps should be made in GIS integrating the output geodata.
 
+## Attribution
+The work is part of the Master Thesis <br/>
+**"*Automation of Processing GNSS Track Records for Designing the Intesity Maps"*** </br>
+submitted in *Palacký University in Olomouc* and *University of Salzburg*<br/> by Benjamín Šramo and supervised by Radek Barvíř in 2023.
+
+<a href = "https://bsramo144.github.io/" target = "_blank"><img width="480" alt="logo" src="https://bsramo144.github.io/images/logos.png"></a>
+
 
 [^1]: Douglas, David; Peucker, Thomas (1973). "Algorithms for the reduction of the number of points required to represent a digitized line or its caricature". The Canadian Cartographer. 10 (2): 112–122. doi:10.3138/FM57-6770-U75U-7727
 [^2]: Meert, W., & Verbeke, M. (2018). HMM with non-emitting states for Map Matching. In European Conference on Data Analysis (ECDA), Date: 2018/07/04-2018/07/06, Location: Paderborn, Germany. Python package 
