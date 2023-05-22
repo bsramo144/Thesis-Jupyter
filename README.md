@@ -4,8 +4,7 @@ Jupyter Notebook :ledger: [![Open In Colab](https://colab.research.google.com/as
 The tool <i>gpx2intensity</i> is Attachment 1 to Master thesis *Automation of Processing GNSS Track Records for Designing the Intesity Maps*. The notebook aims automate the processing of GNSS track data into a linear georeferenced layer suitable for methods of quantitative visualization. The author explains the approach and its settings for matching GNSS track records to a road network for visualizing passage frequency. The tool outputs geodata ready-to-use in GIS and the graduating color web map (see below). The main notebook is suppoerted by the following tools for other use cases.
 
 <img width="560" alt="web_map" src="https://github.com/bsramo144/Thesis-Jupyter/assets/47752920/cdd52bbd-571d-4070-a417-368a3a4676c2">
-
-<i>Dark mode of output preview with a map layout description.</i>
+<br/><i>Dark mode of output preview with a map layout description.</i>
 
 ## Supporting Tools
 ### Web Application in Voilà :computer: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bsramo144/Thesis-Jupyter/HEAD?urlpath=%2Fvoila%2Frender%2Fgpx2intensity.ipynb)
