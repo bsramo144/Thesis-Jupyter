@@ -1,15 +1,17 @@
 # <img width="480" alt="logo" src="https://user-images.githubusercontent.com/47752920/234973760-c8157fdd-a3cf-43cf-88b0-4dc8096cfe7c.png">
-Jupyter Notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1FHZmFP5zzuIhBWDRs0thnTZoyAMKdOce?usp=sharing)
+Jupyter Notebook :ledger: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1FHZmFP5zzuIhBWDRs0thnTZoyAMKdOce?usp=sharing)
 
 :warning: the tool is under development, beta version.
 
 ## Supporting Tools
-### Web Application in Voilà [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bsramo144/Thesis-Jupyter/HEAD?urlpath=%2Fvoila%2Frender%2Fgpx2intensity.ipynb)
+### Web Application in Voilà :computer: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bsramo144/Thesis-Jupyter/HEAD?urlpath=%2Fvoila%2Frender%2Fgpx2intensity.ipynb)
 Voilà is user-friendly way to present Jupyer Notebooks workflow. No coding skills required.
 The launch of the virtual environment may take up to one minute generally.
-### GPX Compression [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1o9xJojiIB2Y-sI7mThGVwW5cIHah0OOV?usp=sharing)
+### GPX Compression :scroll: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1o9xJojiIB2Y-sI7mThGVwW5cIHah0OOV?usp=sharing)
 The [python script](scripts/gpx_simplification.py) allows a user to compress the GPX data with a simplification option[^1] available. The final output consists of generalised geographic coordinates only.
-Voilà tool allows the user upload max 10 MB, therefore, the tool may be used as an additional data preprocessing step. 
+Voilà tool allows the user upload max 10 MB, therefore, the tool may be used as an additional data preprocessing step.
+### Sample GPX Data Repository :link: [data repository](sample_data)
+The tool has been tested in three case studies of different environments. Firstly, it is an urbanised area of Olomouc – a city in the eastern Czech Republic. The second case study area is situated in the mountain range Malá Fatra, Slovakia. The third case study area is National Park Slovak Paradise. All three study areas are known for their potential to attract the visitors to explore the region, therefore, the data-backed planning is vital for their sustainable infrastructure development. The data has been preprocessed in the GPX compression tool.
 
 ## Workflow Documentation
 ![Workflow Diagram](https://user-images.githubusercontent.com/47752920/234070295-6493a543-8fe1-4754-b331-a9a5a3bd54b9.png)
