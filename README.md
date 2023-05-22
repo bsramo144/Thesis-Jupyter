@@ -3,7 +3,7 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1FHZmFP5zzuIhBWDRs0thnTZoyAMKdOce?usp=sharing)
 
-The tool <i>gpx2intensity</i> is Attachment 1 to Master thesis *Automation of Processing GNSS Track Records for Designing the Intesity Maps*. The notebook aims automate the processing of GNSS track data into a linear georeferenced layer suitable for methods of quantitative visualization. The author explains the approach and its settings for matching GNSS track records to a road network for visualizing passage frequency. The tool outputs geodata ready-to-use in GIS and the graduating color web map (see below). The main notebook is suppoerted by the following tools for other use cases.
+The tool <i>gpx2intensity</i> is Attachment 1 to Master thesis *Automation of Processing GNSS Track Records for Designing Intesity Maps*. The notebook aims automate the processing of GNSS track data into a linear georeferenced layer suitable for methods of quantitative visualization. The author explains the approach and its settings for matching GNSS track records to a road network for visualizing passage frequency. The tool outputs geodata ready-to-use in GIS and the graduating color web map (see below). The main notebook is suppoerted by the following tools for other use cases.
 
 <img width="560" alt="web_map" src="https://github.com/bsramo144/Thesis-Jupyter/assets/47752920/cdd52bbd-571d-4070-a417-368a3a4676c2">
 <br/><i>Dark mode of output preview with a map layout description.</i>
@@ -43,7 +43,7 @@ The result visualization and storage part serves the user as a preview of the re
 
 ## Attribution
 The work is part of the Master Thesis <br/>
-**"*Automation of Processing GNSS Track Records for Designing the Intesity Maps"*** </br>
+**"*Automation of Processing GNSS Track Records for Designing Intesity Maps"*** </br>
 submitted in *Palacký University in Olomouc* and *University of Salzburg*<br/> by Benjamín Šramo and supervised by Radek Barvíř in 2023.
 
 <a href = "https://bsramo144.github.io/" target = "_blank"><img width="480" alt="logo" src="https://bsramo144.github.io/images/logos.png"></a>
