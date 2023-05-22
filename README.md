@@ -1,7 +1,7 @@
 # <img width="480" alt="logo" src="https://user-images.githubusercontent.com/47752920/234973760-c8157fdd-a3cf-43cf-88b0-4dc8096cfe7c.png">
 Jupyter Notebook :ledger: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1FHZmFP5zzuIhBWDRs0thnTZoyAMKdOce?usp=sharing)
 
-<i>gpx2intensity</i> aims automate the processing of GNSS track data into a linear georeferenced layer suitable for methods of quantitative visualization. The author explains the approach and its settings for matching GNSS track records to a road network for visualizing passage frequency. The tool outputs geodata ready-to-use in GIS and the graduating color web map (see below). The main notebook is suppoerted by the following tools for other use cases.
+The tool <i>gpx2intensity</i> is Attachment 1 to Master thesis *Automation of Processing GNSS Track Records for Designing the Intesity Maps*. The notebook aims automate the processing of GNSS track data into a linear georeferenced layer suitable for methods of quantitative visualization. The author explains the approach and its settings for matching GNSS track records to a road network for visualizing passage frequency. The tool outputs geodata ready-to-use in GIS and the graduating color web map (see below). The main notebook is suppoerted by the following tools for other use cases.
 
 <img width="560" alt="web_map" src="https://github.com/bsramo144/Thesis-Jupyter/assets/47752920/cdd52bbd-571d-4070-a417-368a3a4676c2">
 
