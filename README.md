@@ -1,5 +1,7 @@
 # <img width="480" alt="logo" src="https://user-images.githubusercontent.com/47752920/234973760-c8157fdd-a3cf-43cf-88b0-4dc8096cfe7c.png">
-Jupyter Notebook :ledger: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1FHZmFP5zzuIhBWDRs0thnTZoyAMKdOce?usp=sharing)
+### :ledger: Jupyter Notebook 
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1FHZmFP5zzuIhBWDRs0thnTZoyAMKdOce?usp=sharing)
 
 The tool <i>gpx2intensity</i> is Attachment 1 to Master thesis *Automation of Processing GNSS Track Records for Designing the Intesity Maps*. The notebook aims automate the processing of GNSS track data into a linear georeferenced layer suitable for methods of quantitative visualization. The author explains the approach and its settings for matching GNSS track records to a road network for visualizing passage frequency. The tool outputs geodata ready-to-use in GIS and the graduating color web map (see below). The main notebook is suppoerted by the following tools for other use cases.
 
@@ -7,13 +9,20 @@ The tool <i>gpx2intensity</i> is Attachment 1 to Master thesis *Automation of Pr
 <br/><i>Dark mode of output preview with a map layout description.</i>
 
 ## Supporting Tools
-### Web Application in Voilà :computer: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bsramo144/Thesis-Jupyter/HEAD?urlpath=%2Fvoila%2Frender%2Fgpx2intensity.ipynb)
+### :computer: Web Application in Voilà 
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bsramo144/Thesis-Jupyter/HEAD?urlpath=%2Fvoila%2Frender%2Fgpx2intensity.ipynb)
+
 Voilà is user-friendly way to present Jupyer Notebooks workflow. No coding skills required.
 The launch of the virtual environment may take up to one minute generally.
-### GPX Compression :scroll: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1o9xJojiIB2Y-sI7mThGVwW5cIHah0OOV?usp=sharing)
+### :scroll: GPX Compression
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1o9xJojiIB2Y-sI7mThGVwW5cIHah0OOV?usp=sharing)
+
 The [python script](scripts/gpx_simplification.py) allows a user to compress the GPX data with a simplification option[^1] available. The final output consists of generalised geographic coordinates only.
 Voilà tool allows the user upload max 10 MB, therefore, the tool may be used as an additional data preprocessing step.
-### Sample GPX Data Repository :link: [data repository](sample_data)
+
+### :link: Sample GPX Data [Repository](sample_data)
 The tool has been tested in three case studies of different environments. Firstly, it is an urbanised area of Olomouc – a city in the eastern Czech Republic. The second case study area is situated in the mountain range Malá Fatra, Slovakia. The third case study area is National Park Slovak Paradise. All three study areas are known for their potential to attract the visitors to explore the region, therefore, the data-backed planning is vital for their sustainable infrastructure development. The data has been preprocessed in the GPX compression tool.
 
 ## Workflow Documentation
