@@ -19,7 +19,7 @@ The launch of the virtual environment may take up to one minute generally.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1o9xJojiIB2Y-sI7mThGVwW5cIHah0OOV?usp=sharing)
 
-The [python script](scripts/gpx_simplification.py) allows a user to compress the GPX data with a simplification option[^1] available. The final output consists of generalised geographic coordinates only.
+The [python script](https://github.com/bsramo144/Thesis-Jupyter/blob/main/scripts/gpx_compression.py) allows a user to compress the GPX data with a simplification option[^1] available. The final output consists of generalised geographic coordinates only.
 Voilà tool allows the user upload max 10 MB, therefore, the tool may be used as an additional data preprocessing step.
 
 ### :link: Sample GPX Data [Repository](sample_data)
