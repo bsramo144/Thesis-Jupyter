@@ -1,11 +1,11 @@
 name: thesis-environment
 
 dependencies:
-  - ipywidgets=8.0.6
+  - ipywidgets
   - IPython
   - libspatialindex
-  - voila=0.4.0
-  - pip=23.1.2
+  - voila
+  - pip
   - pip:
     - git+https://github.com/wannesm/leuvenmapmatching
     - gpx-converter==2.1.0
