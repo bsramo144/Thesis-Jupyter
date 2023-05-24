@@ -1,7 +1,7 @@
 name: thesis-environment
 
 dependencies:
-  - ipywidgets
+  - ipywidgets=8.0.4
   - IPython
   - libspatialindex
   - voila
