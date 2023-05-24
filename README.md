@@ -43,7 +43,7 @@ The result visualization and storage part serves the user as a preview of the re
 
 ## Attribution
 The work is part of the Master Thesis <br/>
-**"*Automation of Processing GNSS Track Records for Designing Intesity Maps"*** </br>
+[**"*Automation of Processing GNSS Track Records for Designing Intesity Maps"***](https://www.geoinformatics.upol.cz/dprace/magisterske/sramo23/index.html)</br>
 submitted in *Palacký University in Olomouc* and *University of Salzburg*<br/> by Benjamín Šramo and supervised by Radek Barvíř in 2023.
 
 <a href = "https://bsramo144.github.io/" target = "_blank"><img width="480" alt="logo" src="https://bsramo144.github.io/images/logos.png"></a>
