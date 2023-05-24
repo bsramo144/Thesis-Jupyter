@@ -14,7 +14,8 @@ The tool <i>gpx2intensity</i> is Attachment 1 to Master thesis *Automation of Pr
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bsramo144/Thesis-Jupyter/HEAD?urlpath=%2Fvoila%2Frender%2Fgpx2intensity.ipynb)
 
 Voilà is user-friendly way to present Jupyer Notebooks workflow. No coding skills required.
-The launch of the virtual environment may take a while depending on the server status.
+The launch of the virtual environment may take a while depending on the server status. If the launching fails, refresh the page again.
+
 ### :scroll: GPX Compression
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1o9xJojiIB2Y-sI7mThGVwW5cIHah0OOV?usp=sharing)
