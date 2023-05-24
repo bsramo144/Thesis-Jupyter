@@ -3,7 +3,7 @@ name: thesis-environment
 dependencies:
   - ipywidgets
   - IPython
-  - numpy=1.23.5
+  - numpy=1.23.0
   - pyproj
   - geopandas
   - shapely=2.0.1
